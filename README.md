@@ -27,6 +27,7 @@ pip install pandas folium
 * `rosbag2_py`
 * `rclpy`
 * `rosidl_runtime_py`
+* `mcap`（MCAP対応のため必要）
 
 ---
 
